@@ -1,1 +1,2 @@
-# conky
+Conky configuration file
+
